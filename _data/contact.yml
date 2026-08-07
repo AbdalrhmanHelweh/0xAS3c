@@ -1,0 +1,14 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+  url: "https://github.com/AbdalrhmanHelweh"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/abdalrhmanhelweh/"
+
+- type: email
+  icon: "fas fa-envelope"
+  url: "mailto:abdulrhmanhelweh@gmail.com"
+  noblank: true # open link in current tab
