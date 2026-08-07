@@ -1,33 +1,35 @@
 ---
-title: "eJPT - eLearnSecurity Junior Penetration Tester"
-description: "Junior-level penetration testing certification covering networking, web app security, and host-based attacks."
+title: "eJPT - Junior Penetration Tester"
+description: "INE's entry-level penetration testing certification validating foundational skills in network and web application security."
 date: 2026-01-15 12:00:00 +0300
 categories: [Certifications, INE]
-tags: [ejpt, penetration-testing, certification]
+tags: [ejpt, penetration-testing, certification, ine]
+image:
+  path: /assets/img/posts/ejpt-badge.png
+  alt: "eJPT Certification Badge"
 pin: false
 ---
 
-## eJPT - eLearnSecurity Junior Penetration Tester
+## eJPT - Junior Penetration Tester
 
 **Issuer:** INE / eLearnSecurity  
 **Date Earned:** January 2026  
-**Credential ID:** YOUR-CREDENTIAL-ID-HERE  
 
 ### About This Certification
 
-The eJPT is a practical, entry-level penetration testing certification that validates the skills needed to perform basic penetration tests.
+The eJPT (Junior Penetration Tester) is a practical, entry-level penetration testing certification. It validates hands-on skills needed to perform real-world penetration tests on networks and web applications.
 
-### Skills Covered
+### Skills Validated
 
-- Network Penetration Testing
-- Web Application Penetration Testing  
-- Host & Network Auditing
-- Information Gathering & Reconnaissance
+- ✅ Network Penetration Testing Fundamentals
+- ✅ Web Application Security Testing
+- ✅ Host & Network Auditing
+- ✅ Information Gathering & Reconnaissance
+- ✅ Vulnerability Assessment
 
-### Verification
+### Exam Format
 
-[Verify this credential](#)
-
----
-
-*Replace this sample with your actual certification details!*
+- **Type:** Practical / Hands-on
+- **Duration:** 48 hours
+- **Environment:** Real lab environment with multiple targets
+- **Passing Score:** 70%
